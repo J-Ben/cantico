@@ -1,0 +1,62 @@
+Id: 0003
+Title: Be Thou My Vision
+IsFavorite: true
+Category: Louange
+BPM: 90
+Genre: Hymne
+FilePath: path/to/audio/file.mp3
+VideoUrl: https://example.com/video.mp3
+ImageUrl: https://example.com/image.jpg
+AudioUrl: https://example.com/audio.mp3
+
+---Paroles---
+
+[Couplet 1]
+    G                C           G
+Be Thou my vision, O Lord of my heart
+    Em               D           G
+Naught be all else to me, save that Thou art
+    C                G           Em
+Thou my best thought, by day or by night
+    G                D           G
+Waking or sleeping, Thy presence my light
+
+[Couplet 2]
+    G                C           G
+Be Thou my wisdom, and Thou my true word
+    Em               D           G
+I ever with Thee and Thou with me, Lord
+    C                G           Em
+Thou my great Father, I Thy true son
+    G                D           G
+Thou in me dwelling, and I with Thee one
+
+[Couplet 3]
+    G                C           G
+Be Thou my battle shield, sword for the fight
+    Em               D           G
+Be Thou my dignity, Thou my delight
+    C                G           Em
+Thou my soul's shelter, Thou my high tower
+    G                D           G
+Raise Thou me heavenward, O Power of my power
+
+[Couplet 4]
+    G                C           G
+Riches I heed not, nor man's empty praise
+    Em               D           G
+Thou mine inheritance, now and always
+    C                G           Em
+Thou and Thou only, first in my heart
+    G                D           G
+High King of heaven, my treasure Thou art
+
+[Couplet 5]
+    G                C           G
+High King of heaven, my victory won
+    Em               D           G
+May I reach heaven's joys, O bright heaven's Sun
+    C                G           Em
+Heart of my own heart, whatever befall
+    G                D           G
+Still be my vision, O Ruler of all
