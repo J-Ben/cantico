@@ -1,0 +1,70 @@
+Id: 0006
+Title: You Came (Lazarus)
+IsFavorite: true
+Category: Adoration
+BPM: 65
+Genre: Contemporain
+FilePath: path/to/audio/file.mp3
+VideoUrl: https://example.com/video.mp4
+ImageUrl: https://example.com/image.jpg
+AudioUrl: https://example.com/audio.mp3
+
+---Paroles---
+
+[Couplet 1]
+    C                 F              C
+You came from Heaven to earth to show the way
+    Am               F              C
+From the earth to the cross, my debt to pay
+    C                 F              C
+From the cross to the grave, from the grave to the sky
+    Am               F              C
+Lord, I lift Your name on high
+
+[Refrain]
+    C                 F              Am
+You came from Heaven to earth to show the way
+    F                G              C
+From the earth to the cross, my debt to pay
+    C                 F              Am
+From the cross to the grave, from the grave to the sky
+    F                G              C
+Lord, I lift Your name on high
+
+[Couplet 2]
+    C                 F              C
+Where were You when I was dead in sin?
+    Am               F              C
+Lost in the dark, with no way to win
+    C                 F              C
+You spoke my name and made me whole again
+    Am               F              C
+Now I live to bring You praise
+
+[Pont / Lazarus]
+    F              C              G              Am
+Lazarus, come forth, come forth from death to life
+    F              C              G              Am
+Lazarus, come forth, the Lord is calling you by name
+    F              C              G              Am
+Come out, come out, from the grave into the light
+    F              C              G
+The Lord your God has called you by name
+
+[Refrain Final]
+    C                 F              Am
+You came from Heaven to earth to show the way
+    F                G              C
+From the earth to the cross, my debt to pay
+    C                 F              Am
+From the cross to the grave, from the grave to the sky
+    F                G              C
+Lord, I lift Your name on high
+    F                G              C
+Lord, I lift Your name on high
+
+[Outro]
+    C                 F              C
+Lazarus, come forth, Lazarus, come forth
+    Am               F              C
+The Lord your God has called you by name

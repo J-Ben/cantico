@@ -1,0 +1,72 @@
+Id: 0005
+Title: I Give Myself Away
+IsFavorite: true
+Category: Adoration
+BPM: 75
+Genre: Contemporain
+FilePath: path/to/audio/file.mp3
+VideoUrl: https://example.com/video.mp4
+ImageUrl: https://example.com/image.jpg
+AudioUrl: https://example.com/audio.mp3
+
+---Paroles---
+
+[Refrain]
+    G                 C              G
+I give myself away, I give myself away
+       Em              C              G
+So You can use me, I give myself away
+    G                 C              G
+I give myself away, I give myself away
+       Em              C              G
+So You can use me, I give myself away
+
+[Couplet 1]
+    G                    C              G
+Here I am, here I stand, Lord my life is in Your hands
+    Em                   C              G
+Lord I'm longing to see Your desires revealed in me
+    G                    C              G
+I give myself away, I give myself away
+       Em              C              G
+So You can use me
+
+[Refrain]
+    G                 C              G
+I give myself away, I give myself away
+       Em              C              G
+So You can use me, I give myself away
+    G                 C              G
+I give myself away, I give myself away
+       Em              C              G
+So You can use me, I give myself away
+
+[Couplet 2]
+    G                    C              G
+Take my heart, take my life, as a living sacrifice
+    Em                   C              G
+All my dreams, all my plans, Lord I place them in Your hands
+    G                    C              G
+I give myself away, I give myself away
+       Em              C              G
+So You can use me
+
+[Pont]
+    C              G              Em              D
+My life is not my own, to You I belong
+    C              G              Em              D
+I give myself, I give myself to You
+    C              G              Em              D
+My life is not my own, to You I belong
+    C              G              Em              D
+I give myself, I give myself to You
+
+[Refrain Final]
+    G                 C              G
+I give myself away, I give myself away
+       Em              C              G
+So You can use me, I give myself away
+    G                 C              G
+I give myself away, I give myself away
+       Em              C              G
+So You can use me, I give myself away

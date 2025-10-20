@@ -1,0 +1,82 @@
+Id: 0004
+Title: Holy Forever
+IsFavorite: true
+Category: Louange
+BPM: 120
+Genre: Contemporain
+FilePath: path/to/audio/file.mp3
+VideoUrl: https://example.com/video.mp4
+ImageUrl: https://example.com/image.jpg
+AudioUrl: https://example.com/audio.mp3
+
+---Paroles---
+
+[Couplet 1]
+    C                 F              C
+A thousand generations falling down in worship
+    Am               F              C
+To sing the song of ages to the Lamb
+    C                 F              C
+And all who've gone before us and all who will believe
+    Am               F              C
+Will sing the song of ages to the Lamb
+
+[Pré-Refrain]
+    Am              F              C
+Your name is the highest, Your name is the greatest
+    Am              F              G
+Your name stands above them all
+
+[Refrain]
+    C                F              Am
+All hail the power of Jesus' name
+    F               G              C
+Forever and ever we'll reign
+    C                F              Am
+All hail the power of Jesus' name
+    F        G      C
+Holy forever Amen
+
+[Couplet 2]
+    C                 F              C
+The moon and stars declare who You are
+    Am               F              C
+I'm so unworthy, but still You love me
+    C                 F              C
+Forever my heart will sing of how great You are
+    Am               F              C
+Beautiful and mighty, everlasting King
+
+[Pré-Refrain]
+    Am              F              C
+Your name is the highest, Your name is the greatest
+    Am              F              G
+Your name stands above them all
+
+[Refrain]
+    C                F              Am
+All hail the power of Jesus' name
+    F               G              C
+Forever and ever we'll reign
+    C                F              Am
+All hail the power of Jesus' name
+    F        G      C
+Holy forever Amen
+
+[Pont]
+    F               C              G              Am
+We will be with You forever, we will be with You forever
+    F               C              G
+We will be with You forever more
+
+[Refrain Final]
+    C                F              Am
+All hail the power of Jesus' name
+    F               G              C
+Forever and ever we'll reign
+    C                F              Am
+All hail the power of Jesus' name
+    F        G      C
+Holy forever Amen
+    F        G      C
+Holy forever Amen
