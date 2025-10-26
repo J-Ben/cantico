@@ -4,6 +4,8 @@ IsFavorite: true
 Category: Adoration
 BPM: 75
 Genre: Contemporain
+BaseKey: G
+SongType: new_song
 FilePath: path/to/audio/file.mp3
 VideoUrl: https://example.com/video.mp4
 ImageUrl: https://example.com/image.jpg

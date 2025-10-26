@@ -4,6 +4,8 @@ IsFavorite: true
 Category: Louange
 BPM: 90
 Genre: Hymne
+BaseKey: G
+SongType: popular_song
 FilePath: path/to/audio/file.mp3
 VideoUrl: https://example.com/video.mp3
 ImageUrl: https://example.com/image.jpg
