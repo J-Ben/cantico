@@ -1,0 +1,40 @@
+Id: 0007
+Title: Goodness of God
+IsFavorite: false
+Category: Louange
+BPM: 66
+Genre: Gospel
+BaseKey: C
+SongType: popular_song
+FilePath: path/to/audio/file.mp3
+VideoUrl: https://example.com/video.mp4
+ImageUrl: https://example.com/image.jpg
+AudioUrl: https://example.com/audio.mp3
+
+---Paroles---
+
+[Couplet 1]
+G           C
+I love You, Lord
+         F.
+Oh, Your mercy never fails me
+        Am
+All my days
+     Dm                G
+I've been held in Your hands
+                       C
+From the moment that I wake up
+F.             C
+Until I lay my head
+       Dm.         G.          C
+I will sing of the goodness of God
+
+[Refrain]
+F                         C        
+All my life You have been faithful
+F                         C      G     
+All my life You have been so, so good
+F                           C        
+With every breath that I am able
+       Dm          G           C
+I will sing of the goodness of God
