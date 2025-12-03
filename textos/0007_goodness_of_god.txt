@@ -16,7 +16,7 @@ AudioUrl: https://example.com/audio.mp3
 [Couplet 1]
 G           C
 I love You, Lord
-         F.
+         F
 Oh, Your mercy never fails me
         Am
 All my days
@@ -24,9 +24,9 @@ All my days
 I've been held in Your hands
                        C
 From the moment that I wake up
-F.             C
+F              C
 Until I lay my head
-       Dm.         G.          C
+       Dm          G           C
 I will sing of the goodness of God
 
 [Refrain]
