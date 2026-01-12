@@ -4,7 +4,7 @@ IsFavorite: false
 Category: Album Témoin Fidèle
 BPM: 66
 Genre: Gospel
-BaseKey: C
+BaseKey: C#
 SongType: new_song
 FilePath: path/to/audio/file.mp3
 VideoUrl: https://example.com/video.mp4
