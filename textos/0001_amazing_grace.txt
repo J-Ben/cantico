@@ -14,14 +14,14 @@ AudioUrl: https://example.com/audio.mp3
 ---Paroles---
 
 [Couplet]
-   G           C          G
-Amazing grace, how sweet the sound
+G           C          G
+    Amazing grace, how sweet the sound
    G               D       G
 That saved a wretch like me
 
 [Refrain]
-   G          C          G
-I once was lost, but now am found
+  G          C          G
+     I once was lost, but now am found
    G           D        G
 Was blind, but now I see
 
