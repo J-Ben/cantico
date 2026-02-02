@@ -1,0 +1,47 @@
+Id: 0010
+Title: Comment ne pas te louer
+IsFavorite: false
+Category: Album Yéhoshoua le Roi
+BPM:
+Genre: Gospel
+BaseKey: G
+SongType: new_song
+FilePath: path/to/audio/file.mp3
+VideoUrl: https://example.com/video.mp4
+ImageUrl: https://example.com/image.jpg
+AudioUrl: https://example.com/audio.mp3
+
+---Paroles---
+
+[Intro]
+G   E   C   D   
+
+[Couplet]
+G  
+Le ciel est ton trône 
+E                        C
+La Terre est ton marchepied 
+             D                   G  
+Ta Parole façonne, l’Univers entier 
+           Em                   C
+Et ta Royauté est pour l’éternité, 
+               D 
+Mon Roi Yehoshoua, Ô Majesté 
+
+[Refrain]
+Em                   Am 
+Comment ne pas te louer, 
+D                  G          Em  
+Comment ne pas t’adorer Yehoshoua 
+
+[Refrain 2]
+G           Em
+La la la la la 
+             C
+La la la la la 
+D  
+Comment ne pas
+G                  Am
+Comment ne pas te louer 
+C                  D
+Comment ne pas t’adorer
