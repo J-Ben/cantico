@@ -1,0 +1,88 @@
+Id: 0009
+Title: Sois Élevé
+IsFavorite: false
+Category: Album Yéhoshoua le Roi
+BPM: 140
+Genre: Gospel
+BaseKey: G
+SongType: new_song
+FilePath: path/to/audio/file.mp3
+VideoUrl: https://example.com/video.mp4
+ImageUrl: https://example.com/image.jpg
+AudioUrl: https://example.com/audio.mp3
+
+---Paroles---
+
+[Couplet 1]
+G         D               Am
+Père Eternel, Seigneur de gloire, 
+
+             C             G
+Source de ma joie, Ô Yeshoua 
+
+          D                        Am 
+Toi le fidèle, tu ne m’abandonnes pas
+            C                  G
+Dans ce désert, tu nourris mon âme, 
+
+            D             Am
+Par ta Parole, Esprit et vie, 
+
+          C                   G
+D’un seul souffle tu me vivifies 
+
+          D             Bm 
+Et me voici, encore éblouis, 
+            C      D    G
+Par tes merveilles, Adonaï 
+
+
+[Refrain]
+         D                     C        
+Alors je chante, je chante ton Nom, 
+
+                  D     G   
+Yeshoua Ôh, tu es excellent !
+
+         D                          Am        
+Sois élevé, par les chants de mon coeur, 
+
+           C      D           G
+A toi la place et à toi l’honneur 
+         D                C
+Ô oui je chante à pleine voix
+                   D     G
+Magnifique est mon Yehoshoua
+                  D             Am
+Ce qu’il a commencé, il l’achèvera, 
+            C      D   G
+Et je dis Amen, Alléluyah 
+
+[Bridge]
+
+D   Am  C  D G
+Alléluyah (Sélah)
+
+[Refrain 2]
+         D                          Am   
+Sois élevé, par les chants de mon coeur, 
+C                 G
+Oh Yehoshoua Mashiah, 
+
+         D                          Am   
+Sois élevé, par les chants de mon coeur,
+C               D                  G
+A toi la place, à toi la place Yehoshoua, 
+                  D  
+Dans ma vie Seigneur
+                      Am        
+Tu es magnifique dans ma vie Ô 
+
+C D G
+(Sélah)
+         D                         Am  
+Sois élevé par les chants de mon coeur 
+         D          Am           C 
+Sois élevé, sois élevé, sois élevé 
+                     G
+A toi la place Yehoshoua 
